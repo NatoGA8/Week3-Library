@@ -6,14 +6,14 @@
         string Author;
         string ISBN;
 
-        Book(string bookTitle, string bookAuthor, string bookISBN)
+        public Book(string bookTitle, string bookAuthor, string bookISBN)
         {
             Title = bookTitle;
             Author = bookAuthor;
             ISBN = bookISBN;
         }
 
-        void DisplayInfo()
+        public void DisplayInfo()
         {
             Console.WriteLine($"Book title: {Title}");
             Console.WriteLine($"Book Author: {Author}");
