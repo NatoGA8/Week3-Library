@@ -1,0 +1,15 @@
+C:\Users\natha\source\repos\Week3Library\Week3Library\bin\Debug\net8.0\Week3Library.exe
+C:\Users\natha\source\repos\Week3Library\Week3Library\bin\Debug\net8.0\Week3Library.deps.json
+C:\Users\natha\source\repos\Week3Library\Week3Library\bin\Debug\net8.0\Week3Library.runtimeconfig.json
+C:\Users\natha\source\repos\Week3Library\Week3Library\bin\Debug\net8.0\Week3Library.dll
+C:\Users\natha\source\repos\Week3Library\Week3Library\bin\Debug\net8.0\Week3Library.pdb
+C:\Users\natha\source\repos\Week3Library\Week3Library\obj\Debug\net8.0\Week3Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\source\repos\Week3Library\Week3Library\obj\Debug\net8.0\Week3Library.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\Week3Library\Week3Library\obj\Debug\net8.0\Week3Library.AssemblyInfo.cs
+C:\Users\natha\source\repos\Week3Library\Week3Library\obj\Debug\net8.0\Week3Library.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\Week3Library\Week3Library\obj\Debug\net8.0\Week3Library.sourcelink.json
+C:\Users\natha\source\repos\Week3Library\Week3Library\obj\Debug\net8.0\Week3Library.dll
+C:\Users\natha\source\repos\Week3Library\Week3Library\obj\Debug\net8.0\refint\Week3Library.dll
+C:\Users\natha\source\repos\Week3Library\Week3Library\obj\Debug\net8.0\Week3Library.pdb
+C:\Users\natha\source\repos\Week3Library\Week3Library\obj\Debug\net8.0\Week3Library.genruntimeconfig.cache
+C:\Users\natha\source\repos\Week3Library\Week3Library\obj\Debug\net8.0\ref\Week3Library.dll
